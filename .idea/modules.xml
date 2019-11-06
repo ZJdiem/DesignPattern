@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demo/BuildType/AbstractFactory0.1/AbstractFactory0.1.iml" filepath="$PROJECT_DIR$/Demo/BuildType/AbstractFactory0.1/AbstractFactory0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/BehaviorType.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/BehaviorType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/Bridge0.1/Bridge0.1.iml" filepath="$PROJECT_DIR$/Demo/StructureType/Bridge0.1/Bridge0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/Bridge0.2/Bridge0.2.iml" filepath="$PROJECT_DIR$/Demo/StructureType/Bridge0.2/Bridge0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BuildType/BuildType.iml" filepath="$PROJECT_DIR$/Demo/BuildType/BuildType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/ChainOfResponsibility0.2/ChainOfResponsibility0.2.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/ChainOfResponsibility0.2/ChainOfResponsibility0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/ChainOfResponsibility0.3/ChainOfResponsibility0.3.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/ChainOfResponsibility0.3/ChainOfResponsibility0.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/ChainOfResponsiblity0.1/ChainOfResponsiblity0.1.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/ChainOfResponsiblity0.1/ChainOfResponsiblity0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Command0.1/Command0.1.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Command0.1/Command0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Command0.2/Command0.2.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Command0.2/Command0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/Composite0.1/Composite0.1.iml" filepath="$PROJECT_DIR$/Demo/StructureType/Composite0.1/Composite0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/Composite0.2/Composite0.2.iml" filepath="$PROJECT_DIR$/Demo/StructureType/Composite0.2/Composite0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/Decorator0.1/Decorator0.1.iml" filepath="$PROJECT_DIR$/Demo/StructureType/Decorator0.1/Decorator0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/Decorator0.2/Decorator0.2.iml" filepath="$PROJECT_DIR$/Demo/StructureType/Decorator0.2/Decorator0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BuildType/Factory/Factory.iml" filepath="$PROJECT_DIR$/Demo/BuildType/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/FlyWeight/FlyWeight.iml" filepath="$PROJECT_DIR$/Demo/StructureType/FlyWeight/FlyWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/FlyWeight0.1/FlyWeight0.1.iml" filepath="$PROJECT_DIR$/Demo/StructureType/FlyWeight0.1/FlyWeight0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/FlyWeight0.2/FlyWeight0.2.iml" filepath="$PROJECT_DIR$/Demo/StructureType/FlyWeight0.2/FlyWeight0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/FlyWeight0.3/FlyWeight0.3.iml" filepath="$PROJECT_DIR$/Demo/StructureType/FlyWeight0.3/FlyWeight0.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/Flyweight0.4/Flyweight0.4.iml" filepath="$PROJECT_DIR$/Demo/StructureType/Flyweight0.4/Flyweight0.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExampleofCase/GeniusPen0.0/GeniusPen0.0.iml" filepath="$PROJECT_DIR$/ExampleofCase/GeniusPen0.0/GeniusPen0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExampleofCase/GeniusPen0.1/GeniusPen0.1.iml" filepath="$PROJECT_DIR$/ExampleofCase/GeniusPen0.1/GeniusPen0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExampleofCase/GeniusPen0.2/GeniusPen0.2.iml" filepath="$PROJECT_DIR$/ExampleofCase/GeniusPen0.2/GeniusPen0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExampleofCase/GeniusPen0.3/GeniusPen0.3.iml" filepath="$PROJECT_DIR$/ExampleofCase/GeniusPen0.3/GeniusPen0.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExampleofCase/GeniusPen0.4/GeniusPen0.4.iml" filepath="$PROJECT_DIR$/ExampleofCase/GeniusPen0.4/GeniusPen0.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Iterator0.1/Iterator0.1.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Iterator0.1/Iterator0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Iterator0.2/Iterator0.2.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Iterator0.2/Iterator0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Iterator0.3/Iterator0.3.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Iterator0.3/Iterator0.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mycode/Iterator1/Iterator1.iml" filepath="$PROJECT_DIR$/Mycode/Iterator1/Iterator1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mycode/Iterraror0.iml" filepath="$PROJECT_DIR$/Mycode/Iterraror0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prepare/LaoZhang/LaoZhang.iml" filepath="$PROJECT_DIR$/Prepare/LaoZhang/LaoZhang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prepare/LaoZhang2/LaoZhang2.iml" filepath="$PROJECT_DIR$/Prepare/LaoZhang2/LaoZhang2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Mediator0.1/Mediator0.1.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Mediator0.1/Mediator0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Mediator0.2/Mediator0.2.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Mediator0.2/Mediator0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Memento0.1/Memento0.1.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Memento0.1/Memento0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Memento0.2/Memento0.2.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Memento0.2/Memento0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prepare/MyPrinter/MyPrinter.iml" filepath="$PROJECT_DIR$/Prepare/MyPrinter/MyPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mycode/Mycode.iml" filepath="$PROJECT_DIR$/Mycode/Mycode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Observer/Observer0.1.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Observer/Observer0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Observer0.2/Observer0.2.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Observer0.2/Observer0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Observer0.3/Observer0.3.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Observer0.3/Observer0.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BuildType/Protype0.1/Protype0.1.iml" filepath="$PROJECT_DIR$/Demo/BuildType/Protype0.1/Protype0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BuildType/Protype0.2/Protype0.2.iml" filepath="$PROJECT_DIR$/Demo/BuildType/Protype0.2/Protype0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/NewProx0.1/Prox0.1.iml" filepath="$PROJECT_DIR$/Demo/StructureType/NewProx0.1/Prox0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BuildType/Proxy0.1/Proxy0.1.iml" filepath="$PROJECT_DIR$/Demo/BuildType/Proxy0.1/Proxy0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BuildType/SingleTon/SingleTon.iml" filepath="$PROJECT_DIR$/Demo/BuildType/SingleTon/SingleTon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/State0.1/State0.1.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/State0.1/State0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/State0.2/State0.2.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/State0.2/State0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Stategy0.1/Stategy0.1.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Stategy0.1/Stategy0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Stategy0.2/Stategy0.2.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Stategy0.2/Stategy0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/StructureType/StructureType.iml" filepath="$PROJECT_DIR$/Demo/StructureType/StructureType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Template/Template0.1.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Template/Template0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Template0.2/Template0.2.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Template0.2/Template0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Template20.2/Template20.2.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Template20.2/Template20.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Visitor0.1/Visitor0.1.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Visitor0.1/Visitor0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/BehaviorType/Visitor0.2/Visitor0.2.iml" filepath="$PROJECT_DIR$/Demo/BehaviorType/Visitor0.2/Visitor0.2.iml" />
+    </modules>
+  </component>
+</project>
